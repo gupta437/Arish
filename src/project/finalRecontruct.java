@@ -16,6 +16,8 @@ public class finalRecontruct {
 			 op2.add("serve");
 			 precursorSteps.add(op2);
 			 ArrayList<String> op3 = new ArrayList<String>();
+			 op3.size()
+			 op3.add(e)
 			 op3.add("chop");
 			 op3.add("boil");
 			 precursorSteps.add(op3);
